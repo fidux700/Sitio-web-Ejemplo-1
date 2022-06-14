@@ -11,6 +11,7 @@ HERRAMIENTA USADA: FIGMA
 METODOLOGIA DE TRABAJO: MOBILE FIRST
 
 
+-----------------------------------------------------------------------------------------------
 
 
 --ENGLISH--

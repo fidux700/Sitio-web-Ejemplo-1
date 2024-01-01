@@ -1,4 +1,4 @@
-# WowHorde
+# Sitio-web-Ejemplo-1 (WowHorde)
 Primer proyecto HTML + CSS (NO RESPONSIVE DESIGN) 
 https://fidux700.github.io/WowHorde/
 //Contexto: Este sitio web fue un regalo que le hice a mi cuñado ya que ambos somos fanaticos de World Of Warcraft. La sorpresa fué que cree como personaje de la saga
